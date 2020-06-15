@@ -5,6 +5,6 @@ El fichero principal se trata del notebook "Selección de características.ipynb
 
 Además, el fichero notebook, cuenta con la implementación de las funciones requeridas como parte de solución del presente trabajo con anotaciones, aclaraciones y observaciones que facilitan la comprensión parte por parte de la implementación llevada a cabo; junto con aclaraciones teóricas básicas que complementan al documento original. Se ha tratado de introducir la práctica utilizando celdas separadas para poder realizar una ejecución controlada y paso por paso, y para introducir dichas aclaraciones. También se incluyen pruebas sobre conjuntos de datos, y una breve interpretación de sus resultados.
 
-Junto a este fichero, se adjuntan los ficheros que son fuentes de datos para el procesamiento de datos, 'titanic.csv' y 'BreastCancerDataset.csv'.
+Junto a este fichero, se adjuntan los ficheros que son fuentes de datos para el procesamiento de datos, 'titanic.csv' y 'BreastCancerDataset.csv'. De forma adicional, también se incluyen los ficheros 'vino.csv' y 'pima-indians-diabetes.csv'.
 
 Para una correcta ejecución, deben colocarse los ficheros fuentes junto al notebook en el mismo directorio.
