@@ -7,4 +7,4 @@ Además, el fichero notebook, cuenta con la implementación de las funciones req
 
 Junto a este fichero, se adjuntan los ficheros que son fuentes de datos para el procesamiento de datos, 'titanic.csv' y 'BreastCancerDataset.csv'. De forma adicional, también se incluyen los ficheros 'vino.csv' y 'pima-indians-diabetes.csv'.
 
-Para una correcta ejecución, deben colocarse los ficheros fuentes junto al notebook en el mismo directorio.
+Para una correcta ejecución, deben colocarse los ficheros que componen los conjuntos de datos junto al notebook, esto es, en el mismo directorio.
